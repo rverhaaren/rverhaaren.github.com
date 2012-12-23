@@ -1,5 +1,5 @@
 body {
-  background-color: #fffefc;
+	background-color: #fffefc;
 	color: #095452;
 	font-family: Century Gothic, sans-serif;
 	font-weight: lighter;
@@ -9,6 +9,7 @@ body {
 	
 h1 {
 	font-size: 24px;
+	font-weight: lighter;
 	}
 	
 h2 {
