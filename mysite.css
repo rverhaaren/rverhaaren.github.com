@@ -56,6 +56,10 @@ a:hover {
 	width: 800px;
 	font-size: 14px;
 	}
+	
+#imglink.img:hover {
+	opacity:0.4;
+	}	
 
 #footer {
 	background: #fff3d7;
